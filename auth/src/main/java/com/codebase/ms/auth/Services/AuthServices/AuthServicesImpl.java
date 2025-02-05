@@ -1,4 +1,4 @@
-package com.codebase.ms.auth.Services;
+package com.codebase.ms.auth.Services.AuthServices;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

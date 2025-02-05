@@ -1,7 +1,7 @@
 package com.codebase.ms.auth.ControllersTest;
 
 import com.codebase.ms.auth.Controllers.AuthController;
-import com.codebase.ms.auth.Services.AuthServices;
+import com.codebase.ms.auth.Services.AuthServices.AuthServices;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
